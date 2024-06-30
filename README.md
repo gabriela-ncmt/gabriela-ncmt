@@ -8,3 +8,8 @@ For you who don't know me yet, I'm Gabriela Nascimento, a 23 year-old woman who 
 Follow me to see more about my learnings, it'll be a pleasure to have you here.  :dizzy: 
 
 Enjoy it  :heartpulse:  :heartpulse: 
+
+:mortar_board: Internet Systems
+
+:computer: Systems Development & Analysis
+
