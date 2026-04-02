@@ -1,15 +1,18 @@
-## I see you here!! 👋
+# Olá, eu sou a Gabi! 👋
 
-Welcome to my special place!  :smiley:  :star:  :sparkles:
+Sou **Desenvolvedora Backend .NET** com foco na construção de sistemas escaláveis e robustos. Atualmente, atuo na criação de soluções eficientes e busco aprimorar constantemente meus conhecimentos em arquitetura de software.
 
-It is special because here is where I do what I love: learning!  :sparkles:  :sparkles:
+### 🛠 No que eu trabalho:
+- **Linguagens & Frameworks:** C#, .NET (6/8/10), ASP.NET MVC e Web API.
+- **Banco de Dados:** SQL Server, PostgreSQL e integração com Dapper e EF Core.
+- **Mensageria & Performance:** - **Apache Pulsar** & RabbitMQ para arquiteturas baseadas em eventos.
+  - Redis para estratégias de cache distribuído.
+- **Arquitetura:** DDD (Domain-Driven Design), Repository Pattern e princípios de Clean Code.
 
-For you who don't know me yet,I'm a woman who is exploring IT programming, learning C# ASP.NET, entering into this new world.
-Follow me to see more about my learnings, it'll be a pleasure to have you here.  :dizzy: 
+### 🎓 Formação & Projetos:
+- **Pós-graduação:** Arquitetura na FIAP (em andamento).
+- **Graduação:** Sistemas para Internet e Análise e Desenvolvimento de Sistemas
+- **Foco Atual:** Desenvolvimento de sistemas complexos utilizando DDD e mensageria para desacoplamento de serviços.
 
-Enjoy it!
-
-:mortar_board: Internet Systems
-
-:computer: Systems Development & Analysis
-
+### 📫 Vamos nos conectar?
+[LinkedIn](https://linkedin.com/in/gabriela-ncmt)
