@@ -1,4 +1,5 @@
 # Olá, eu sou a Gabi! 👋
+> "Não tenho nenhum talento especial, apenas sou apaixonadamente curioso." — *Albert Einstein*
 
 Sou **Desenvolvedora Backend .NET** com foco na construção de sistemas escaláveis e robustos. Atualmente, atuo na criação de soluções eficientes e busco aprimorar constantemente meus conhecimentos em arquitetura de software.
 
